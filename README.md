@@ -8,8 +8,10 @@
 - MySQL
 
 ### Frameworks
-- Vue.js
-- Node.js
-- NUXT.js
+- HTMX
+- Vue
+- NUXT
+- Node
+- Laravel
 
 ### 
