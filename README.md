@@ -21,3 +21,5 @@
 - NUXT
 - Node
 - Laravel
+
+# Can i go before 1970?
