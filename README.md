@@ -1,25 +1,13 @@
-### Social media
-
-### Skills
+### Code
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
 
-### To
-
-### Pay
-
-### The
-
-### Bills
-
-### And Frameworks
-- HTMX
+### Tools
 - Vue
 - NUXT
 - Node
+- HTMX
 - Laravel
-
-# Can i go before 1970?
