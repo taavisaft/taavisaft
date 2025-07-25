@@ -1,13 +1,13 @@
 ### Code
 - HTML
 - CSS
-- JavaScript
+- JS/TS
+- SQL
 - PHP
-- MySQL
 
 ### Tools
 - Vue
 - NUXT
 - Node
-- HTMX
 - Laravel
+- HTMX (because why not)
