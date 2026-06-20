@@ -5,20 +5,12 @@
  \__ \ (_| |  _| |_   _  | (_| |  __/\ V /
  |___/\__,_|_|  \__| (_)  \__,_|\___| \_/             
 </code></pre>
-
+git 
 ### Code
 - HTML
 - CSS
-- JS/TS
-- SQL
-- PHP
-- Python
+- JS
+- GO
 
-### Other things I like
-Vue / NUXT / Node / Laravel / HTMX (because why not) / Tailwind CSS
-
-### Design things
-Figma / Affinity Designer / Affinity Photo
-
-### Tools I use
-VS Code / Cursor / Ghostty / Warp / Arc Browser / GitHub / Docker / Linux / MacOS
+### I Like those tools
+Arc Browser / ZED / Docker / Linux (Arch btw) / MacOS
